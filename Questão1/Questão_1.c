@@ -44,7 +44,7 @@
         
   }  
   
-  int main(void){ 
+  int main(){ 
      // setlocale(LC_ALL,"");	
   	float valor_A, valor_B, valor_C;
       printf("\nDigite o valor a: ");
